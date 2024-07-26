@@ -1,2 +1,2 @@
 # Amazon-Clone
-Only Frontend
+Only Frontend Using HTML and CSS
